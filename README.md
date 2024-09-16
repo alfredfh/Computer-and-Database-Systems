@@ -10,19 +10,18 @@ Learn fundamental concepts such as computer architecture, operating systems, and
 
 ## Objective
 
-The objective of the assignment is to develop a simplified version of the classic Battleships game. In this game, the computer randomly places five ships of different sizes and point values on a 10x10 grid. The player selects grid squares to fire at, trying to hit and sink the ships. Points are awarded for hitting ships, and the game ends either after 10 shots or when all ships are sunk. The player is notified of hits and misses, and their score is displayed at the end. Additionally, a debug mode allows the player to see the ship locations during gameplay.
+This course gave a foundational understanding of databases and allowed the development of practical skills needed to design and implement a relational database for a given scenario. The coursework required creating an entity-relationship diagram, normalising the database structure and implementing it using MariaDB. Furthermore, we were challenged to create SQL statements to address given queries.
 
 ### Skills Learned
 
--  Developed Battleships game in Java, focusing on OOP principles.
--  Creating simple graphical dialog and menu to develop the interface and basic event handling.
--  Utilising variables, constructors and getter/setter to manage the ships and users demonstrating principle of encapsulation.
--  Use of loops, arrays, collections, and associations to implement the game logic as defined above.
+-  SQL querys
+-  Relational Databases
+-  Creating tables and defining the primary and foreign keys, and assigning datatypes to the attributes.
 
 ### Tools Used
+  -  SQL statements
+  -  MariaDB
 
-- The use of Eclipse IDE for JAVA developers
-
-## Class Diagram
-
-![Class Diagram](https://github.com/user-attachments/assets/b56b527d-ea5a-4dd9-86a2-5822ec2a35e1)
+### Entity-relationship Diagram
+  
+![Stage 2 - ER databases library (2)](https://github.com/user-attachments/assets/f982deb9-338f-44c0-8879-dfa311cd652e)

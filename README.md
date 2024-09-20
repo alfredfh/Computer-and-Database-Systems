@@ -4,7 +4,7 @@
 
 ## Objective
 
-Learn fundamental concepts such as computer architecture, operating systems, and networking. Gaining an understanding of how computer architecture defines the structure and functionality of computers, including the role of CPUs, memory, and input/output devices. I also explored operating systems, focusing on their ability to manage hardware resources, process scheduling, and file systems, which ensure smooth operation of computer systems. Additionally, I learned about networking, including the principles of communication protocols, data transmission, and how networks like the internet function. This knowledge provided a foundation for understanding how different system components interact to support computing tasks.
+I learned fundamental concepts such as computer architecture, operating systems, and networking. Gaining an understanding of how computer architecture defines the structure and functionality of computers, including the role of CPUs, memory, and input/output devices. I also explored operating systems, focusing on their ability to manage hardware resources, process scheduling, and file systems, which ensure smooth operation of computer systems. Additionally, I learned about principles of communication protocols, data transmission, and how networks like the internet function. This knowledge provided a foundation for understanding how different system components interact to support computing tasks.
 
 # Database Systems
 
